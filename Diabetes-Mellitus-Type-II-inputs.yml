@@ -1,0 +1,84 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/diabetes-mellitus-type-ii-dmii-insulin---primary.py
+inputModule3:
+  class: File
+  path: python/nephropathy-diabetes-mellitus-type-ii-dmii---primary.py
+inputModule4:
+  class: File
+  path: python/diabetes-mellitus-type-ii-dmii-cataract---primary.py
+inputModule5:
+  class: File
+  path: python/arthropathy-diabetes-mellitus-type-ii-dmii---primary.py
+inputModule6:
+  class: File
+  path: python/mononeuropathy-diabetes-mellitus-type-ii-dmii---primary.py
+inputModule7:
+  class: File
+  path: python/diabetes-mellitus-type-ii-dmii-state---primary.py
+inputModule8:
+  class: File
+  path: python/neurological-diabetes-mellitus-type-ii-dmii---primary.py
+inputModule9:
+  class: File
+  path: python/angiopathy-diabetes-mellitus-type-ii-dmii---primary.py
+inputModule10:
+  class: File
+  path: python/diabetes-mellitus-type-ii-dmii-ulcer---primary.py
+inputModule11:
+  class: File
+  path: python/diabetes-mellitus-type-ii-dmii---primary.py
+inputModule12:
+  class: File
+  path: python/neuropathic-diabetes-mellitus-type-ii-dmii---primary.py
+inputModule13:
+  class: File
+  path: python/renal-diabetes-mellitus-type-ii-dmii---primary.py
+inputModule14:
+  class: File
+  path: python/retinopathy-diabetes-mellitus-type-ii-dmii---primary.py
+inputModule15:
+  class: File
+  path: python/diabetes-mellitus-type-ii-dmii-proteinuria---primary.py
+inputModule16:
+  class: File
+  path: python/diabetes-mellitus-type-ii-dmii-control---primary.py
+inputModule17:
+  class: File
+  path: python/hypoglycaemic-diabetes-mellitus-type-ii-dmii---primary.py
+inputModule18:
+  class: File
+  path: python/diabetes---primary.py
+inputModule19:
+  class: File
+  path: python/polyneuropathy-diabetes-mellitus-type-ii-dmii---primary.py
+inputModule20:
+  class: File
+  path: python/diabetes-mellitus-type-ii-dmii-treated---primary.py
+inputModule21:
+  class: File
+  path: python/multiple-diabetes-mellitus-type-ii-dmii---primary.py
+inputModule22:
+  class: File
+  path: python/ophthalmic-diabetes-mellitus-type-ii-dmii---primary.py
+inputModule23:
+  class: File
+  path: python/diabetes-mellitus-type-ii-dmii-gangrene---primary.py
+inputModule24:
+  class: File
+  path: python/diabetes-mellitus-type-ii-dmii-microalbuminuria---primary.py
+inputModule25:
+  class: File
+  path: python/diabetes-mellitus-type-ii-dmii-review---primary.py
+inputModule26:
+  class: File
+  path: python/dietary-diabetes-mellitus-type-ii-dmii---primary.py
+inputModule27:
+  class: File
+  path: python/diabetes-mellitus-type-ii-dmii-complication---primary.py
+inputModule28:
+  class: File
+  path: python/output-cases.py
